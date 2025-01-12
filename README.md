@@ -10,7 +10,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
   ![C#](https://img.shields.io/badge/-C%23-green?style=flat-square&logo=csharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
   ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=white)
 
 - **Web Development:**  
