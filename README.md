@@ -15,6 +15,7 @@
 - **Web Development:**  
   Built apps and websites using HTML, CSS, JavaScript, and frameworks like **Flutter** and **WordPress**.
 
+
 - **UI/UX Design:**  
   I bring ideas to life with design tools like **Figma** and **Canva**, making the user experience seamless and visually appealing.
 
