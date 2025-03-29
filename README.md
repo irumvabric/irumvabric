@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Brice!
 
-🚀 Passionate **Software Engineer** with **3 years** of experience, on the verge of graduating and ready to take on new challenges! I love contributing to open-source projects and have had the pleasure of collaborating on over **85 repositories**. My enthusiasm for learning and creating drives me to constantly explore new tools and technologies.
+🚀 Passionate **Software Engineer** with **3 years** of experience, on the verge of graduating and ready to take on new challenges! I love contributing to open-source projects and have had the pleasure of collaborating on over **95 repositories**. My enthusiasm for learning and creating drives me to constantly explore new tools and technologies.
 
 ### 🌟 **What I Do**
 
