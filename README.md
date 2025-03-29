@@ -31,6 +31,7 @@
 - **Advanced Flutter** for mobile app development
 - Diving deeper into **AI integrations** for smarter apps
 - **ReactJS** for web development
+- **Kubernetes** for web development
 
 ### 🌱 **Open to Collaborate!**
 I’m enthusiastic about collaborating on exciting new projects. If you have an idea or need a developer for your project, I’d love to work with you!
