@@ -13,7 +13,7 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=white)
 
 - **Web Development:**  
-  Built apps and websites using HTML, CSS, JavaScript, and frameworks like **Flutter** and **WordPress**.
+  Built apps and websites using HTML, CSS, JavaScript, backend with **Firebase** and frameworks like **Flutter** and **WordPress** .
 
 
 - **UI/UX Design:**  
