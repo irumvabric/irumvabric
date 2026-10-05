@@ -1,9 +1,26 @@
-# 👋 Hi, I'm Brice!
+# Hi, I'm Brice Berry 👋
 
-🚀 Passionate **Software Engineer** with **3 years** of experience, on the verge of graduating and ready to take on new challenges! 
+**IT Consultant · Full-Stack Software Engineer · Cloud & DevOps**
 
-### 📫 **Let's Connect!**
-Feel free to connect with me on:  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/irumvabric)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/irumvabric)
+I build **scalable web applications, enterprise systems, and digital solutions** that solve real business problems.
 
+### 🛠️ Stack
+
+**Backend:** PHP · Laravel · Python  
+**Frontend:** JavaScript · Vue.js · Bootstrap  
+**Database:** MySQL · PostgreSQL · MariaDB  
+**DevOps:** Linux · Docker · Git · GitHub Actions · CI/CD  
+**Infrastructure:** Apache · Nginx · WHM/cPanel · DNS · SSL  
+**Business:** ERP · Odoo · REST APIs · Automation
+
+### 🚀 Interests
+
+Software Engineering · Cloud · DevOps · ERP · Digital Transformation · System Integration
+
+### 🌐 Connect
+
+[GitHub](https://github.com/irumvabric) · [X](https://x.com/irumvabric) · [Instagram](https://instagram.com/irumvabric) · [WhatsApp](https://wa.me/25765191235)
+
+📍 Bujumbura, Burundi · 📧 irumvabric@gmail.com
+
+> **Build. Automate. Solve.**
